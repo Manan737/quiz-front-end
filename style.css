@@ -218,3 +218,9 @@ header .container {
   transform: translate(15%, 25px);
 
 }
+.right
+{
+  border-radius: 250px;
+  
+  margin:100px;
+}
